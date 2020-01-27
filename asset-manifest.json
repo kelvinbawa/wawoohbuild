@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.607dd701.chunk.css",
-    "main.js": "/static/js/main.a88358e1.chunk.js",
-    "main.js.map": "/static/js/main.a88358e1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.75a78477.js",
-    "runtime-main.js.map": "/static/js/runtime-main.75a78477.js.map",
-    "static/js/2.d880ca25.chunk.js": "/static/js/2.d880ca25.chunk.js",
-    "static/js/2.d880ca25.chunk.js.map": "/static/js/2.d880ca25.chunk.js.map",
+    "main.css": "/static/css/main.3669e298.chunk.css",
+    "main.js": "/static/js/main.8e546321.chunk.js",
+    "main.js.map": "/static/js/main.8e546321.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9406be9d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9406be9d.js.map",
+    "static/js/2.9fb30b45.chunk.js": "/static/js/2.9fb30b45.chunk.js",
+    "static/js/2.9fb30b45.chunk.js.map": "/static/js/2.9fb30b45.chunk.js.map",
+    "static/js/3.0f646c7c.chunk.js": "/static/js/3.0f646c7c.chunk.js",
+    "static/js/3.0f646c7c.chunk.js.map": "/static/js/3.0f646c7c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3f8a477e66b82ca92a796d7d1970557a.js": "/precache-manifest.3f8a477e66b82ca92a796d7d1970557a.js",
+    "precache-manifest.007d03669e1702a326bb02a0c6616887.js": "/precache-manifest.007d03669e1702a326bb02a0c6616887.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.607dd701.chunk.css.map": "/static/css/main.607dd701.chunk.css.map",
-    "static/js/2.d880ca25.chunk.js.LICENSE": "/static/js/2.d880ca25.chunk.js.LICENSE",
+    "static/css/main.3669e298.chunk.css.map": "/static/css/main.3669e298.chunk.css.map",
+    "static/js/2.9fb30b45.chunk.js.LICENSE": "/static/js/2.9fb30b45.chunk.js.LICENSE",
+    "static/media/1.jpg": "/static/media/1.f7114bf9.jpg",
+    "static/media/2.jpg": "/static/media/2.56c24286.jpg",
+    "static/media/6.jpg": "/static/media/6.4b1433e8.jpg",
+    "static/media/7.jpg": "/static/media/7.39c39f44.jpg",
     "static/media/index.scss": "/static/media/cheltenham-normal-200.caa0e476.woff2",
     "static/media/hero.mp4": "/static/media/hero.82c97351.mp4",
     "static/media/wawooh.svg": "/static/media/wawooh.4673147f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75a78477.js",
-    "static/js/2.d880ca25.chunk.js",
-    "static/css/main.607dd701.chunk.css",
-    "static/js/main.a88358e1.chunk.js"
+    "static/js/runtime-main.9406be9d.js",
+    "static/js/2.9fb30b45.chunk.js",
+    "static/css/main.3669e298.chunk.css",
+    "static/js/main.8e546321.chunk.js"
   ]
 }
